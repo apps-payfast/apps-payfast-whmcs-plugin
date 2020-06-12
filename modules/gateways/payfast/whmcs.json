@@ -1,0 +1,20 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "payfast",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "PayFast",
+    "tagline": "Go Cashless!"
+  },
+  "support": {
+    "docs_url": "https:\/\/apps.net.pk\/"
+  },
+  "authors": [
+    {
+      "name": "APPS Dev Team",
+      "homepage": "https:\/\/apps.net.pk\/"
+    }
+  ]
+}
