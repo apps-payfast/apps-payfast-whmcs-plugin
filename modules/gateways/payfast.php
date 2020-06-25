@@ -11,7 +11,7 @@ if (!defined("WHMCS")) {
 
 function payfast_MetaData() {
     return array(
-        'DisplayName' => 'PayFast Payment Gateway',
+        'DisplayName' => 'PayFast Payment Gateway - Sandbox',
         'APIVersion' => '1.1', // Use API Version 1.1
         'DisableLocalCredtCardInput' => true,
         'TokenisedStorage' => false,
